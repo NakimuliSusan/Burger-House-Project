@@ -4,18 +4,19 @@
 }
 .container img {
     margin-left:5%;
-    margin-top:3%;
+    margin-top:5%;
 }
 .container h2{
-    margin-left:9%;
-    margin-top:-2%;
+    margin-left:10%;
+    margin-top:-7%;
+    font-size:30px;
     color:#45260d;
     font-family: 'Koulen', cursive;
 
 }
 .container span  i{
     font-size:30px;
-    margin-left:50%;
+    margin-left:47%;
     margin-bottom:-30%;
 }
 

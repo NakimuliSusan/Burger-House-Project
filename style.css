@@ -330,14 +330,17 @@ h1{
 }
 .first-field input{
     padding: 15px;
-    width:120%
+    width:120%;
+    border-radius:10px;
+    
 }
 .second-field{
     margin-right:35%;
 }
 .second-field input{
     padding: 15px;
-    width:120% 
+    width:120% ;
+    border-radius:10px;
 }
 .form-2{
     display:flex;
@@ -351,6 +354,8 @@ h1{
     padding: 15px;
     width:120%;
     margin-top:8%;
+    border-radius:10px;
+    
 }
 .fourth-field{
     margin-right:31.5%;
@@ -360,6 +365,8 @@ h1{
     padding: 15px;
     width:120%;
     margin-top:8%;
+    border-radius:10px;
+    
 }
 .form-3{
     display:flex; 
@@ -375,6 +382,8 @@ h1{
     padding: 15px;
     width:128%;
     margin-top:8%;
+    border-radius:10px;
+    
 }
 .sixth-field{
     margin-left:8%;
@@ -387,6 +396,8 @@ h1{
     color: #ffffff;
     font-weight:bold;
     border:none;
+    border-radius:10px;
+    
 }
 #image-1{
     margin-left:20%;
